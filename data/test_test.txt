@@ -1,0 +1,230 @@
+16 5
+(4,3)
+1 | Alan | surprise | Wow . | Friends_S1E3: 00:21:16.441 - 00:21:17.858
+2 | Monica | neutral | I am , I am really sorry . | Friends_S1E3: 00:21:18.068 - 00:21:19.361
+3 | Alan | neutral | Yeah , I am sorry too . But , I gotta tell you , I am a little relieved . | Friends_S1E3: 00:21:19.569 - 00:21:24.782
+4 | Monica | surprise | Relieved ? | Friends_S1E3: 00:21:24.992 - 00:21:25.664
+5 | Alan | neutral | Yeah , well , I had a great time with you . . I just can not stand your friends . | Friends_S1E3: 00:21:25.664 - 00:21:31.884
+20 10
+(9,9),(10,10)
+1 | Joey | neutral | What ? | Friends_S1E4: 00:06:55.123 - 00:06:55.666
+2 | Ross | neutral | Peach pit . | Friends_S1E4: 00:06:55.666 - 00:06:57.140
+3 | Chandler | neutral | Yes , Bunny ? | Friends_S1E4: 00:06:57.542 - 00:06:58.583
+4 | Ross | neutral | Peach pit . That night we , uh ... we had ... | Friends_S1E4: 00:07:00.128 - 00:07:04.339
+5 | Joey | neutral | Peaches ? | Friends_S1E4: 00:07:01.504 - 00:07:04.339
+6 | Ross | neutral | Actually , nectarines , but basically ... | Friends_S1E4: 00:07:04.507 - 00:07:06.967
+7 | Chandler | neutral | Could have been a peach . | Friends_S1E4: 00:07:08.428 - 00:07:09.679
+8 | Ross | neutral | Then , uh , then we got dressed , and I ... I ... I walked her to the ... ... the bus stop ... I am fine . | Friends_S1E4: 00:07:09.679 - 00:07:20.313
+9 | Joey | joy | Hey , that woman got an ass like Carol ! | Friends_S1E4: 00:07:20.481 - 00:07:23.693
+10 | Joey | surprise | What ? Thought we were trying to find stuff . | Friends_S1E4: 00:07:24.068 - 00:07:30.282
+26 5
+(1,1),(2,1),(3,3),(3,2),(5,5)
+1 | Chandler | anger | Excuse me , look , we have been here for over an hour , and a lot of people less sick than my friend have gone in . | Friends_S1E4: 00:16:11.762 - 00:16:16.683
+2 | Chandler | anger | I mean , that guy with the toe thing ? Who he sleeping with ? | Friends_S1E4: 00:16:16.850 - 00:16:18.322
+3 | Chandler | sadness | Oh , c mon Dora , do not be mad ... | Friends_S1E4: 00:16:23.273 - 00:16:26.025
+4 | Chandler | neutral | I know we both said some things we did not mean , but that does not mean we still do not love each other . | Friends_S1E4: 00:16:26.193 - 00:16:34.867
+5 | Chandler | surprise | You know , I feel like I have lost her . . Ba ... ! | Friends_S1E4: 00:16:35.369 - 00:16:39.748
+43 3
+(2,2),(2,1),(3,3)
+1 | Ross | neutral | You got the clothes clean . Now that is the important part . | Friends_S1E5: 00:20:40.864 - 00:20:43.991
+2 | Rachel | sadness | Oh , I guess . Except everything looks like jammies now . | Friends_S1E5: 00:20:44.201 - 00:20:47.578
+3 | Rachel | anger | Whoa , I am sorry . Excuse me . We had this cart . | Friends_S1E5: 00:20:53.252 - 00:20:57.421
+46 5
+(2,1),(3,3),(4,3)
+1 | Ross | neutral | Well , you know , monogamy can be a , uh , tricky concept . I mean , anthropologically speaking ... | Friends_S1E6: 00:07:17.812 - 00:07:26.154
+2 | Ross | anger | Fine . Fine , alright , now you will never know . | Friends_S1E6: 00:07:26.529 - 00:07:28.530
+3 | Monica | joy | We are kidding . C mon , tell us ! | Friends_S1E6: 00:07:28.781 - 00:07:30.365
+4 | All | joy | Yeah ! C mon ! | Friends_S1E6: 00:07:30.575 - 00:07:32.200
+5 | Ross | neutral | Alright . There is a theory , put forth by Richard Leakey ... | Friends_S1E6: 00:07:32.410 - 00:07:36.204
+47 21
+(2,1),(3,3),(4,4),(5,4),(8,8),(10,8),(10,10),(13,13),(13,12),(15,14),(15,15),(21,21)
+1 | Joey | neutral | Here . I need to borrow some moisturizer . | Friends_S1E6: 00:12:12.356 - 00:12:14.198
+2 | Monica | surprise | For what ? | Friends_S1E6: 00:12:14.198 - 00:12:15.088
+3 | Joey | joy | What do you think ? Today the big day ! | Friends_S1E6: 00:12:15.276 - 00:12:17.277
+4 | Monica | disgust | Oh my God . Okay , go into the bathroom , use whatever you want , just do not ever tell me what you did in there . | Friends_S1E6: 00:12:17.820 - 00:12:23.575
+5 | Joey | joy | Thank you ! | Friends_S1E6: 00:12:24.034 - 00:12:25.076
+6 | Chandler | neutral | Where is Joey ? His mom on the phone . | Friends_S1E6: 00:12:28.038 - 00:12:29.665
+7 | Monica | neutral | He is in the bathroom . I do not think you wanna go in there ! | Friends_S1E6: 00:12:29.748 - 00:12:31.862
+8 | Chandler | disgust | C mon , we are roommates ! My eyes ! ! My eyes ! ! | Friends_S1E6: 00:12:31.875 - 00:12:38.006
+9 | Monica | neutral | I warned you ... | Friends_S1E6: 00:12:40.551 - 00:12:42.051
+10 | Rachel | anger | Who is being loud ? | Friends_S1E6: 00:12:42.303 - 00:12:44.095
+11 | Chandler | neutral | Oh , that would be Monica . | Friends_S1E6: 00:12:44.305 - 00:12:46.306
+12 | Chandler | neutral | Hey , listen , I wanna borrow a coupla things , Aurora spent the night , I really wanna make her breakfast . | Friends_S1E6: 00:12:46.849 - 00:12:49.642
+13 | Monica | surprise | Oh , you got the whole night , huh ? | Friends_S1E6: 00:12:49.894 - 00:12:51.644
+14 | Chandler | neutral | Yeah , well , I only have twenty minutes until Ethan , so , you know . . | Friends_S1E6: 00:12:51.896 - 00:12:55.190
+15 | Rachel | surprise | Ooh , do I sense a little bit of resentment ? | Friends_S1E6: 00:12:55.441 - 00:12:57.328
+16 | Chandler | neutral | No , no resentment , believe me , it is worth it . | Friends_S1E6: 00:12:57.610 - 00:13:03.031
+17 | Chandler | neutral | Kay ? | Friends_S1E6: 00:13:02.000 - 00:13:03.031
+18 | Chandler | neutral | You know in a relationship you have these key moments that you know you will remember for the rest of your life ? | Friends_S1E6: 00:13:03.240 - 00:13:08.119
+19 | Chandler | neutral | Well , every ... single ... second is like that with Aurora . . and I have just wasted about thirty ... five of them talking to you people , so , uh . . Monica , can you help me with the door ? | Friends_S1E6: 00:13:08.370 - 00:13:17.796
+20 | Monica | neutral | Oh , um , Chandler ? You know , the ... the old Monica would ... would remind you to scrub that Teflon pan with a plastic brush ... | Friends_S1E6: 00:13:18.047 - 00:13:25.429
+21 | Monica | joy | But I am not gonna do that . | Friends_S1E6: 00:13:25.884 - 00:13:28.848
+49 12
+(1,1),(3,1),(3,2),(3,3),(9,9)
+1 | Rachel | surprise | Wow , this is so cool , you guys . The entire city is blacked out ! | Friends_S1E7: 00:01:42.143 - 00:01:46.230
+2 | Monica | neutral | Mom says it is all of Manhattan , parts of Brooklyn and Queens , and they have no idea when it is coming back on . | Friends_S1E7: 00:01:46.481 - 00:01:51.110
+3 | Rachel | surprise | Wow , you guys , this is big . | Friends_S1E7: 00:01:51.277 - 00:01:53.278
+4 | Monica | anger | Pants and a sweater ? | Friends_S1E7: 00:01:53.530 - 00:01:54.842
+5 | Monica | anger | Why , mom ? | Friends_S1E7: 00:01:54.842 - 00:01:55.878
+6 | Monica | anger | Who am I gonna meet in a blackout ? | Friends_S1E7: 00:01:56.074 - 00:01:57.825
+7 | Monica | anger | Power company guys ? | Friends_S1E7: 00:01:59.327 - 00:02:00.787
+8 | Monica | anger | Eligible looters ? | Friends_S1E7: 00:02:00.787 - 00:02:02.771
+9 | Monica | anger | Could we talk about this later ? | Friends_S1E7: 00:02:03.123 - 00:02:04.375
+10 | Monica | neutral | OK . | Friends_S1E7: 00:02:04.375 - 00:02:05.044
+11 | Phoebe | neutral | Can I borrow the phone ? I want to call my apartment and check on my grandma . What my number ? | Friends_S1E7: 00:02:06.000 - 00:02:12.381
+12 | Phoebe | neutral | Well , I never call me . | Friends_S1E7: 00:02:14.259 - 00:02:16.009
+51 5
+(1,1),(2,2)
+1 | Chandler | anger | Alright , alright , alright . It is been fourteen and a half minutes and you still have not said one word . Oh God , do something . Just make contact , smile ! | Friends_S1E7: 00:03:54.651 - 00:04:04.761
+2 | Chandler | joy | There you go ! | Friends_S1E7: 00:04:04.827 - 00:04:09.831
+3 | Chandler | neutral | You are definitely scaring here . | Friends_S1E7: 00:04:13.670 - 00:04:15.796
+4 | Jill | neutral | Would you like to call somebody ? | Friends_S1E7: 00:04:16.673 - 00:04:18.590
+5 | Chandler | neutral | Yeah , about 300 guys I went to high school with . | Friends_S1E7: 00:04:19.175 - 00:04:22.636
+52 6
+(2,1),(5,4),(5,5)
+1 | Monica | neutral | I have no idea what you just said . | Friends_S1E7: 00:04:58.798 - 00:05:00.632
+2 | Chandler | anger | Put Joey on the phone . | Friends_S1E7: 00:05:00.883 - 00:05:02.759
+3 | Joey | neutral | What up man ? | Friends_S1E7: 00:05:05.972 - 00:05:07.014
+4 | Chandler | neutral | I am trppd ... in an ATM vstbl ... wth Jll Gdcr . | Friends_S1E7: 00:05:07.223 - 00:05:15.188
+5 | Joey | surprise | Oh my God ! He is trapped in an ATM vestibule with Jill Goodacre ! Chandler , listen . | Friends_S1E7: 00:05:16.482 - 00:05:24.239
+6 | Chandler | neutral | Yeah , like that thought never entered my mind . | Friends_S1E7: 00:05:28.286 - 00:05:31.038
+58 20
+(2,2),(3,3),(9,9),(10,10),(16,16),(17,17),(18,16),(18,17),(18,18),(20,20)
+1 | Ross | neutral | Come on . Lucky sixes ... . | Friends_S1E7: 00:15:15.247 - 00:15:17.081
+2 | Rachel | joy | Everybody , this is Paolo . Paolo , I want you to meet my friends . This is Monica . | Friends_S1E7: 00:15:18.000 - 00:15:25.382
+3 | Monica | joy | Hi ! | Friends_S1E7: 00:15:25.424 - 00:15:26.424
+4 | Rachel | neutral | And Joey ... . | Friends_S1E7: 00:15:26.592 - 00:15:27.510
+5 | Monica | joy | Hi ! | Friends_S1E7: 00:15:27.510 - 00:15:28.913
+6 | Rachel | neutral | And Ross . | Friends_S1E7: 00:15:29.011 - 00:15:30.903
+7 | Monica | joy | Hi ! | Friends_S1E7: 00:15:30.903 - 00:15:32.617
+8 | Rachel | neutral | He does not speak much English . | Friends_S1E7: 00:15:37.895 - 00:15:41.064
+9 | Paolo | joy | Monopoly ! | Friends_S1E7: 00:15:41.857 - 00:15:44.485
+10 | Rachel | surprise | Look at that ! | Friends_S1E7: 00:15:45.653 - 00:15:47.445
+11 | Ross | neutral | So , um ... where did Paolo come from ? | Friends_S1E7: 00:15:50.658 - 00:15:52.158
+12 | Rachel | neutral | Oh ... Italy , I think . | Friends_S1E7: 00:15:53.035 - 00:15:54.702
+13 | Ross | neutral | No , I mean tonight , in the building . Suddenly . Into our lives . | Friends_S1E7: 00:15:54.995 - 00:15:58.873
+14 | Rachel | neutral | Well , the cat ... the cat turned out to be Paolo cat ! | Friends_S1E7: 00:16:00.209 - 00:16:04.337
+15 | Ross | neutral | That , that is funny ... ... . and Rachel keeps touching him . | Friends_S1E7: 00:16:06.173 - 00:16:09.425
+16 | Phoebe | sadness | Alright . I looked all over the building and I could not find the kitty anywhere . | Friends_S1E7: 00:16:12.179 - 00:16:16.307
+17 | Rachel | joy | Oh , I found him . He was Paolo cat . | Friends_S1E7: 00:16:16.558 - 00:16:18.977
+18 | Phoebe | joy | Ah ! Well ! There you go ! Last to know again ! And I am guessing ... since nobody told me ... this is Paolo . | Friends_S1E7: 00:16:19.228 - 00:16:26.943
+19 | Rachel | neutral | Ah , Paolo , this is Phoebe . | Friends_S1E7: 00:16:27.194 - 00:16:29.946
+20 | Phoebe | joy | You betcha ! | Friends_S1E7: 00:16:30.906 - 00:16:36.786
+62 9
+(1,1),(2,2),(5,5),(6,5),(6,6),(8,8),(9,9)
+1 | Chandler | anger | WHAT IS IT ? ! | Friends_S1E8: 00:02:51.838 - 00:02:53.672
+2 | Monica | joy | Okay , I ... I d know , you ... you just ... you have a quality . | Friends_S1E8: 00:02:55.800 - 00:02:58.927
+3 | All | neutral | Yes . Absolutely . A quality . | Friends_S1E8: 00:02:59.179 - 00:03:02.222
+4 | Chandler | neutral | Oh , oh , a quality , good , because I was worried you guys were gonna be vague about this . | Friends_S1E8: 00:03:02.390 - 00:03:06.518
+5 | Monica | joy | Hello ? Hello ? Oh ! Rachel , it is Paolo calling from Rome . | Friends_S1E8: 00:03:08.813 - 00:03:15.736
+6 | Rachel | surprise | Oh my God ! Calling from Rome ! | Friends_S1E8: 00:03:15.987 - 00:03:18.906
+7 | Ross | neutral | So he is calling from Rome . I could do that . Just gotta go to Rome . | Friends_S1E8: 00:03:24.078 - 00:03:29.166
+8 | Rachel | joy | Monica , your dad just beeped in , but can you make it quick ? Talking to Rome . I am talking to Rome . | Friends_S1E8: 00:03:32.003 - 00:03:39.009
+9 | Monica | sadness | Hey dad , what up ? Oh God . Ross , it is Nana . | Friends_S1E8: 00:03:40.136 - 00:03:47.976
+64 5
+(2,1),(2,2)
+1 | Ross | neutral | I thought it was gonna be a closed casket . | Friends_S1E8: 00:08:28.466 - 00:08:30.383
+2 | Mrs. Geller | anger | Well , that does not mean she can not look nice ! | Friends_S1E8: 00:08:30.593 - 00:08:33.553
+3 | Mrs. Geller | neutral | Sweetie , you think you can get in there ? | Friends_S1E8: 00:08:38.476 - 00:08:41.061
+4 | Ross | neutral | I do not see why not . | Friends_S1E8: 00:08:41.479 - 00:08:43.188
+5 | Ross | neutral | Here is my retainer ! | Friends_S1E8: 00:09:02.375 - 00:09:03.542
+67 15
+(9,9),(11,11),(12,12),(13,12),(13,13),(14,14),(15,12),(15,15),(15,14)
+1 | Ross | neutral | Hi , is uh , is Carol here ? | Friends_S1E9: 00:04:49.580 - 00:04:51.540
+2 | Susan | neutral | No , she is at a faculty meeting . | Friends_S1E9: 00:04:51.708 - 00:04:55.085
+3 | Ross | neutral | Oh , I uh , just came by to pick up my skull . Well , not mine , but ... | Friends_S1E9: 00:04:55.253 - 00:05:00.549
+4 | Susan | neutral | Come in . | Friends_S1E9: 00:05:01.092 - 00:05:02.884
+5 | Ross | neutral | Thanks . Yeah , Carol borrowed it for a class , and I have to get it back to the museum . | Friends_S1E9: 00:05:03.052 - 00:05:07.306
+6 | Susan | neutral | What it look like ? | Friends_S1E9: 00:05:07.473 - 00:05:09.266
+7 | Ross | neutral | Kinda like a big face without skin . | Friends_S1E9: 00:05:09.434 - 00:05:11.560
+8 | Susan | neutral | Yes , I am familiar with the concept . We can just look for it . | Friends_S1E9: 00:05:13.313 - 00:05:20.402
+9 | Ross | surprise | Ok . Wow , you guys sure have a lot of books about bein a lesbian . | Friends_S1E9: 00:05:25.533 - 00:05:30.746
+10 | Susan | neutral | Well , you know , you have to take a course . Otherwise , they do not let you do it . | Friends_S1E9: 00:05:33.207 - 00:05:40.756
+11 | Ross | joy | Hey , hey , Yertle the Turtle . A classic . | Friends_S1E9: 00:05:49.307 - 00:05:53.185
+12 | Susan | joy | Actually , I am reading it to the baby . | Friends_S1E9: 00:05:53.353 - 00:05:56.104
+13 | Ross | surprise | The uh , the baby that has not been born yet ? Would not that mean you are ... crazy ? | Friends_S1E9: 00:05:58.358 - 00:06:05.698
+14 | Susan | surprise | What , you do not think they can hear sounds in there ? | Friends_S1E9: 00:06:06.449 - 00:06:09.534
+15 | Ross | surprise | You are not serious , I mean , you really ... you really talk to it ? | Friends_S1E9: 00:06:09.702 - 00:06:13.914
+79 15
+(3,2),(4,4),(5,4),(5,5),(6,4),(6,6),(7,4),(7,5),(7,6),(7,7),(8,4),(8,5),(8,6),(8,7),(8,8),(9,4),(9,6),(10,4),(10,6),(11,4),(13,13),(14,13)
+1 | Mrs. Bing | neutral | Car waiting downstairs , I just wanted to drop off these copies of my book for your friends . Anything you want from Lisbon ? | Friends_S1E11: 00:19:16.238 - 00:19:22.580
+2 | Chandler | neutral | No , just knowing you are gonna be there is enough . | Friends_S1E11: 00:19:22.619 - 00:19:25.580
+3 | Mrs. Bing | joy | Alright , well , be good , I love you . | Friends_S1E11: 00:19:26.206 - 00:19:29.834
+4 | Chandler | anger | You kissed my best Ross ! ... Or something to that effect . | Friends_S1E11: 00:19:32.546 - 00:19:38.551
+5 | Mrs. Bing | sadness | O ... kay . Look , it , it was stupid . | Friends_S1E11: 00:19:39.720 - 00:19:47.643
+6 | Chandler | sadness | Really stupid . | Friends_S1E11: 00:19:47.811 - 00:19:48.563
+7 | Mrs. Bing | sadness | Really stupid . | Friends_S1E11: 00:19:48.563 - 00:19:50.244
+8 | Mrs. Bing | sadness | And I do not even know how it happened . | Friends_S1E11: 00:19:52.357 - 00:19:54.692
+9 | Mrs. Bing | sadness | I am sorry , honey , I promise it will never happen again . | Friends_S1E11: 00:19:54.860 - 00:19:58.738
+10 | Mrs. Bing | fear | Are we okay now ? | Friends_S1E11: 00:20:00.699 - 00:20:01.783
+11 | Chandler | sadness | Yeah . No . No ... | Friends_S1E11: 00:20:01.900 - 00:20:06.495
+12 | Ross | neutral | Ah , the forbidden love of a man and his door . | Friends_S1E11: 00:20:10.292 - 00:20:12.960
+13 | Joey | surprise | Shh . He did it . He told her off , and not just about the kiss , about everything . | Friends_S1E11: 00:20:13.128 - 00:20:18.466
+14 | Ross | surprise | You are kidding . | Friends_S1E11: 00:20:18.634 - 00:20:19.675
+15 | Joey | neutral | No , no . He said " When are you gonna grow up and start being a mom ? " | Friends_S1E11: 00:20:19.843 - 00:20:22.511
+88 13
+(2,2),(3,2),(3,3),(5,5),(6,5),(7,7),(7,8),(8,7),(8,8),(9,7),(9,8),(13,13)
+1 | Phoebe | neutral | I think she took it pretty well . You know Paolo over there right now , so ... | Friends_S1E12: 00:16:50.926 - 00:16:54.887
+2 | Ross | joy | Ah ... ooh ! Well , looks like , uh , we kicked your butts . | Friends_S1E12: 00:17:08.402 - 00:17:11.279
+3 | Joey | anger | No ... no , she kicked our butts . You could be on the Olympic standing ... there team . | Friends_S1E12: 00:17:11.447 - 00:17:15.491
+4 | Ross | neutral | Come on , two on one . | Friends_S1E12: 00:17:15.951 - 00:17:17.160
+5 | Chandler | surprise | What are you still doing here ? She just broke up with the guy , it is time for you to swoop in ! | Friends_S1E12: 00:17:17.411 - 00:17:21.581
+6 | Ross | surprise | What , now ? | Friends_S1E12: 00:17:23.083 - 00:17:24.500
+7 | Joey | joy | Yes , now is when you swoop ! | Friends_S1E12: 00:17:24.668 - 00:17:26.294
+8 | Joey | joy | You gotta make sure that when Paolo walks out of there , the first guy Rachel sees is you , She is gotta know that you are everything he is not ! | Friends_S1E12: 00:17:26.462 - 00:17:32.842
+9 | Joey | joy | You are like , like the anti ... Paolo ! | Friends_S1E12: 00:17:33.010 - 00:17:34.969
+10 | Chandler | neutral | My Catholic friend is right . | Friends_S1E12: 00:17:36.930 - 00:17:38.681
+11 | Chandler | neutral | She is distraught . | Friends_S1E12: 00:17:39.308 - 00:17:40.190
+12 | Chandler | neutral | You are there for her . | Friends_S1E12: 00:17:40.190 - 00:17:41.400
+13 | Chandler | joy | You pick up the pieces , and then you usher in the age of Ross ! | Friends_S1E12: 00:17:41.518 - 00:17:47.273
+89 12
+(1,1),(2,1),(3,3),(4,3),(4,4),(5,3),(5,4),(6,5),(6,6),(12,11),(12,12)
+1 | Monica | joy | Yes ! And that would be a shutdown ! | Friends_S1E12: 00:21:58.734 - 00:22:01.778
+2 | Chandler | anger | Shut ... out ! ! | Friends_S1E12: 00:22:01.820 - 00:22:03.112
+3 | Monica | surprise | Where are you guys going ? Come on , one more game ! | Friends_S1E12: 00:22:06.491 - 00:22:09.118
+4 | Joey | sadness | Uh , it is 2 : 30 in the morning ! | Friends_S1E12: 00:22:09.286 - 00:22:10.954
+5 | Chandler | anger | Yeah , get out ! | Friends_S1E12: 00:22:11.079 - 00:22:12.681
+6 | Monica | anger | You guys are always hanging out in my apartment ! | Friends_S1E12: 00:22:12.998 - 00:22:16.000
+7 | Monica | joy | Come on , I will only use my left hand , huh ? | Friends_S1E12: 00:22:16.168 - 00:22:18.140
+8 | Monica | joy | Come on , wussies ! | Friends_S1E12: 00:22:18.879 - 00:22:21.465
+9 | Monica | neutral | All right , ok , I gotta go . | Friends_S1E12: 00:22:24.760 - 00:22:27.386
+10 | Monica | neutral | I am going , and I am gone . | Friends_S1E12: 00:22:27.554 - 00:22:30.931
+11 | Chandler | neutral | One more game ? | Friends_S1E12: 00:22:33.352 - 00:22:33.895
+12 | Joey | joy | Oh yeah ! | Friends_S1E12: 00:22:33.895 - 00:22:35.241
+96 6
+(4,3),(6,3)
+1 | Roger | neutral | Oh . | Friends_S1E13: 00:19:48.687 - 00:19:49.854
+2 | Phoebe | neutral | But I do not . Me , Phoebe . | Friends_S1E13: 00:19:50.022 - 00:19:52.648
+3 | Roger | neutral | Well , I am not I am not at all surprised they feel that way . | Friends_S1E13: 00:19:54.860 - 00:19:57.111
+4 | Phoebe | surprise | You are not ? See , that is why you are so great ! | Friends_S1E13: 00:19:57.321 - 00:19:59.739
+5 | Roger | neutral | Actually it is , it is quite , you know , typical behaviour when you have this kind of dysfunctional group dynamic . | Friends_S1E13: 00:20:00.115 - 00:20:06.662
+6 | Roger | anger | You know , this kind of co ... dependant , emotionally stunted , sitting in your stupid coffee house with your stupid big cups ... which , I am sorry , might as well have nipples on them , and you are all like Oh , define me ! Define me ! Love me , I need love ! . | Friends_S1E13: 00:20:06.872 - 00:20:29.310
+101 8
+(1,1),(2,1),(2,2),(8,7)
+1 | Lorraine | joy | You know , ever since I was little , I have been able to pick up quarters with my toes . | Friends_S1E14: 00:06:38.022 - 00:06:44.194
+2 | Joey | joy | Yeah ? Good for you . | Friends_S1E14: 00:06:44.445 - 00:06:47.448
+3 | Joey | neutral | Uh , quarters or rolls of quarters ? | Friends_S1E14: 00:06:48.241 - 00:06:53.120
+4 | Janice | anger | By the way , Chandler . I cut you out of all my pictures . So if you want , I have a bag with just your heads . | Friends_S1E14: 00:06:58.626 - 00:07:06.133
+5 | Chandler | neutral | That is OK . | Friends_S1E14: 00:07:07.885 - 00:07:09.177
+6 | Janice | anger | Oh , are you sure ? Really ? Because you know , you could make little puppets out of them , and you could use them in your theater of cruelty . | Friends_S1E14: 00:07:09.971 - 00:07:17.352
+7 | Joey | neutral | We can not do that . | Friends_S1E14: 00:07:20.148 - 00:07:21.606
+8 | Chandler | disgust | What ? What can not you do ? | Friends_S1E14: 00:07:22.733 - 00:07:24.860
+111 2
+
+1 | Monica | neutral | OK , try this salmon mousse . | Friends_S1E15: 00:07:05.049 - 00:07:07.884
+2 | Joey | neutral | Mmmm . Good . | Friends_S1E15: 00:07:07.969 - 00:07:10.763
+112 13
+(4,4),(5,5),(6,6),(6,7),(7,6),(7,7),(8,7),(8,8),(9,6),(9,7),(9,9),(10,9),(11,11),(12,12)
+1 | Monica | neutral | Is it better than the other salmon mousse ? | Friends_S1E15: 00:07:10.930 - 00:07:13.390
+2 | Joey | neutral | It is creamier . | Friends_S1E15: 00:07:14.142 - 00:07:15.684
+3 | Monica | neutral | Yeah , well , is that better ? | Friends_S1E15: 00:07:15.852 - 00:07:18.019
+4 | Joey | disgust | I do not know . We are talking about whipped fish , Monica . I am just happy I am keeping it down , you know ? | Friends_S1E15: 00:07:18.187 - 00:07:24.818
+5 | Rachel | surprise | My God ! What happened to you ? | Friends_S1E15: 00:07:26.779 - 00:07:32.617
+6 | Chandler | anger | Eight and a half hours of aptitude tests , intelligence tests , personality tests ... and what do I learn ? | Friends_S1E15: 00:07:32.785 - 00:07:40.333
+7 | Chandler | anger | " You are ideally suited for a career in data processing for a large multinational corporation . " | Friends_S1E15: 00:07:40.918 - 00:07:45.714
+8 | Phoebe | joy | That is so great ! Cause you already know how to do that ! | Friends_S1E15: 00:07:46.966 - 00:07:50.385
+9 | Chandler | anger | Can you believe it ? I mean , do not I seem like somebody who should be doing something really cool ? | Friends_S1E15: 00:07:50.970 - 00:07:56.475
+10 | Rachel | sadness | Oh Chandler , I know , I know ... | Friends_S1E15: 00:08:02.315 - 00:08:05.067
+11 | Rachel | surprise | Oh , hey ! You can see your nipples through this shirt ! | Friends_S1E15: 00:08:05.234 - 00:08:09.154
+12 | Monica | joy | Here you go , maybe this will cheer you up . | Friends_S1E15: 00:08:13.367 - 00:08:15.577
+13 | Chandler | neutral | Ooh , you know , I had a grape about five hours ago , so I would better split this with you . | Friends_S1E15: 00:08:16.496 - 00:08:20.832

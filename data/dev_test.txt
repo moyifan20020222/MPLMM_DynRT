@@ -1,0 +1,78 @@
+18 13
+(3,3),(6,5),(6,6),(10,8),(10,9),(11,11),(12,8),(12,9),(12,11)
+1 | Monica | neutral | Alright . Phoebe ? | Friends_S1E4: 00:00:03.420 - 00:00:04.382
+2 | Phoebe | neutral | Okay , okay . | Friends_S1E4: 00:00:04.382 - 00:00:05.298
+3 | Phoebe | joy | If I were omnipotent for a day , I would want , um , world peace , no more hunger , good things for the rain ... forest ... And bigger boobs ! | Friends_S1E4: 00:00:05.422 - 00:00:15.556
+4 | Ross | neutral | Yeah , see . . you took mine . Chandler , what about you ? | Friends_S1E4: 00:00:17.100 - 00:00:22.438
+5 | Chandler | neutral | Uh , if I were omnipotent for a day , I would . . make myself omnipotent forever . | Friends_S1E4: 00:00:22.605 - 00:00:26.025
+6 | Rachel | disgust | See , there is always one guy . " If I had a wish , I would wish for three more wishes . " | Friends_S1E4: 00:00:26.234 - 00:00:31.405
+7 | All | neutral | Hey Joey . Hi . Hey , buddy . | Friends_S1E4: 00:00:34.075 - 00:00:35.534
+8 | Monica | neutral | Hey , Joey , what would you do if you were omnipotent ? | Friends_S1E4: 00:00:35.702 - 00:00:37.828
+9 | Joey | sadness | Probably kill myself ! | Friends_S1E4: 00:00:38.538 - 00:00:40.831
+10 | Monica | surprise | . . Excuse me ? | Friends_S1E4: 00:00:41.791 - 00:00:43.250
+11 | Joey | sadness | Hey , if Little Joey dead , then I got no reason to live ! | Friends_S1E4: 00:00:43.418 - 00:00:47.087
+12 | Ross | surprise | Joey , uh ... OMnipotent . | Friends_S1E4: 00:00:49.090 - 00:00:51.383
+13 | Joey | neutral | You are ? | Friends_S1E4: 00:00:53.094 - 00:00:55.054
+23 6
+(1,1),(3,3),(4,4),(5,4),(6,6)
+1 | Ross | anger | Get him ! GET HIM ! Get him ! Get ... YESSS ! Not laughing now , are you pal ! | Friends_S1E4: 00:12:16.944 - 00:12:23.575
+2 | Chandler | neutral | See buddy , that is all you need , a bunch of toothless guys hitting each other with sticks . | Friends_S1E4: 00:12:23.743 - 00:12:27.370
+3 | Ross | joy | Pass it ! Pass it ! | Friends_S1E4: 00:12:27.538 - 00:12:29.831
+4 | Chandler | joy | He is open ! | Friends_S1E4: 00:12:29.999 - 00:12:30.511
+5 | All | joy | Shoot ! Shoot ! Shoot ! | Friends_S1E4: 00:12:30.511 - 00:12:33.925
+6 | Chandler | surprise | Hey , look , we are on that TV thing ! | Friends_S1E4: 00:12:39.842 - 00:12:43.178
+28 9
+(2,2),(7,4),(7,6),(8,4),(8,6),(8,8),(9,4),(9,6),(9,8)
+1 | Chandler | anger | Well , what ? What ? What is it ? That she left you ? That she likes women ? That she left you for another woman that likes women ? | Friends_S1E4: 00:17:41.977 - 00:17:47.106
+2 | Ross | anger | Little louder , okay , I think there is a man on the twelfth floor in a coma that did not quite hear you ... | Friends_S1E4: 00:17:47.274 - 00:17:51.652
+3 | Chandler | neutral | Then what ? | Friends_S1E4: 00:17:55.282 - 00:17:56.365
+4 | Ross | neutral | My first time with Carol was ... | Friends_S1E4: 00:17:57.493 - 00:18:00.161
+5 | Joey | neutral | What ? | Friends_S1E4: 00:18:03.624 - 00:18:05.041
+6 | Ross | neutral | It was my first time . | Friends_S1E4: 00:18:07.586 - 00:18:11.964
+7 | Joey | surprise | With Carol ? Oh . | Friends_S1E4: 00:18:13.008 - 00:18:20.973
+8 | Chandler | surprise | So in your whole life , you have only been with one ... ... oh . | Friends_S1E4: 00:18:21.683 - 00:18:25.937
+9 | Joey | surprise | Whoah , boy , hockey was a big mistake ! There was a whole bunch of stuff we could have done tonight ! | Friends_S1E4: 00:18:26.814 - 00:18:34.445
+65 4
+(4,4)
+1 | Ross | neutral | How we doing , you guys ready ? | Friends_S1E8: 00:13:16.003 - 00:13:17.545
+2 | Monica | neutral | Mom already called this morning to remind me not to wear my hair up . Did you know my ears are not my best feature ? | Friends_S1E8: 00:13:17.797 - 00:13:23.134
+3 | Ross | neutral | Some days it is all I can think about . | Friends_S1E8: 00:13:23.385 - 00:13:25.637
+4 | Phoebe | sadness | Hi , sorry I am late , I could not find my bearings . | Friends_S1E8: 00:13:26.514 - 00:13:29.516
+71 11
+(7,7),(8,8),(9,8),(9,9),(11,11)
+1 | Carol | neutral | Anytime you are ready . | Friends_S1E9: 00:14:17.565 - 00:14:18.940
+2 | Ross | neutral | Ok , ok , here we go . | Friends_S1E9: 00:14:19.942 - 00:14:23.987
+3 | Ross | neutral | Ok , where am I talking to , here ? | Friends_S1E9: 00:14:28.409 - 00:14:32.453
+4 | Ross | neutral | I mean , uh , well , there is one way that seems to offer a certain acoustical advantage , but ... | Friends_S1E9: 00:14:32.621 - 00:14:37.417
+5 | Carol | neutral | Just aim for the bump . | Friends_S1E9: 00:14:38.335 - 00:14:39.961
+6 | Ross | neutral | Ok , ok , ok , ok , here goes . | Friends_S1E9: 00:14:41.130 - 00:14:47.093
+7 | Ross | sadness | You know , I , you know , can not do this . | Friends_S1E9: 00:14:54.101 - 00:14:56.853
+8 | Ross | disgust | Uh , this is too weird . | Friends_S1E9: 00:14:57.021 - 00:14:59.023
+9 | Ross | sadness | I feel stupid . | Friends_S1E9: 00:14:59.023 - 00:15:00.168
+10 | Carol | neutral | So do not do it , it is fine . You do not have to do it just because Susan does it . | Friends_S1E9: 00:15:01.108 - 00:15:05.904
+11 | Ross | joy | Hello , baby . Hello , hello . | Friends_S1E9: 00:15:06.071 - 00:15:10.742
+74 10
+(5,4),(8,8)
+1 | Phoebe | neutral | Oh , hi Max ! Hey , do you know everybody ? | Friends_S1E10: 00:12:02.471 - 00:12:04.639
+2 | Max | neutral | No . Have you seen David ? | Friends_S1E10: 00:12:04.807 - 00:12:06.683
+3 | Phoebe | neutral | No , no , he has not been around . | Friends_S1E10: 00:12:08.227 - 00:12:09.519
+4 | Max | neutral | Well , if you see him , tell him to pack his bags . We are going to Minsk . | Friends_S1E10: 00:12:09.687 - 00:12:13.273
+5 | Phoebe | surprise | Minsk ? | Friends_S1E10: 00:12:13.941 - 00:12:14.533
+6 | Max | neutral | Minsk . It is in Russia . | Friends_S1E10: 00:12:14.533 - 00:12:16.673
+7 | Phoebe | neutral | I know where Minsk is . | Friends_S1E10: 00:12:17.737 - 00:12:19.696
+8 | Max | joy | We got the grant . Three years , all expenses paid . | Friends_S1E10: 00:12:20.406 - 00:12:25.535
+9 | Phoebe | neutral | So when , when do you leave ? | Friends_S1E10: 00:12:26.078 - 00:12:27.328
+10 | Max | neutral | January first | Friends_S1E10: 00:12:27.538 - 00:12:29.205
+116 11
+(1,3),(3,3),(4,3),(4,4),(9,5),(9,6),(9,7),(9,8),(9,9)
+1 | Monica | anger | Wendy , we had a deal ! Yeah , you promised ! Wendy ! Wendy ! Wendy ! | Friends_S1E15: 00:15:52.368 - 00:15:59.290
+2 | Rachel | neutral | Who was that ? | Friends_S1E15: 00:16:03.587 - 00:16:05.213
+3 | Monica | sadness | Wendy bailed . I have no waitress . | Friends_S1E15: 00:16:07.049 - 00:16:10.218
+4 | Rachel | sadness | Oh ... that is too bad . Bye bye . | Friends_S1E15: 00:16:11.971 - 00:16:15.974
+5 | Monica | neutral | Ten dollars an hour . | Friends_S1E15: 00:16:16.976 - 00:16:18.068
+6 | Rachel | neutral | No . | Friends_S1E15: 00:16:18.068 - 00:16:18.620
+7 | Monica | neutral | Twelve dollars an hour . | Friends_S1E15: 00:16:18.936 - 00:16:20.061
+8 | Rachel | neutral | Mon . I wish I could , but I have made plans to walk around . | Friends_S1E15: 00:16:20.521 - 00:16:23.856
+9 | Monica | anger | You know , Rachel , when you ran out of your wedding , I was there for you . I put a roof over your head , and if that means nothing to you ... | Friends_S1E15: 00:16:25.192 - 00:16:31.865
+10 | Monica | neutral | Twenty dollars an hour . | Friends_S1E15: 00:16:32.241 - 00:16:35.034
+11 | Rachel | neutral | Done . | Friends_S1E15: 00:16:36.370 - 00:16:37.662
